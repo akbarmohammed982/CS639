@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">AKBAR</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_abut">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Bibliography</string>
+    <string name="second_fragment_label">Hobbies</string>
+    <string name="third_fragment_label">Contact</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="bio_me">
+        Effective student committed to learning, developing skills in
+ computers, and making team contributions. Self-directed and
+ energetic with superior performance in both autonomous and
+ collaborative environments, working independently and collaborating
+ with others on group projects.
+    </string>
+    <string name="hobbies_me">My Hobbies are Listening to music and hanging out with friends and watching movies</string>
+    <string name="contacts_me">My Email is am32669n@pace.edu</string>
+    <string name="contact">Contact</string>
+    <string name="hobbies">Hobbies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_about" />
+</resources>
